@@ -1,0 +1,31 @@
+/* ==========================================
+   QR Studio Design Tokens
+========================================== */
+
+:root{
+
+    --primary:#00A896;
+
+    --secondary:#008080;
+
+    --accent:#FF00FF;
+
+    --accent-dark:#E60067;
+
+    --yellow:#FFD700;
+
+    --red:#A6192E;
+
+    --glass:rgba(255,255,255,.08);
+
+    --glass-border:rgba(255,255,255,.15);
+
+    --text:#FFFFFF;
+
+    --muted:#D1D5DB;
+
+    --shadow:0 10px 35px rgba(0,0,0,.35);
+
+    --radius:20px;
+
+}

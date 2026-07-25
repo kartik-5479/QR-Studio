@@ -1,0 +1,8 @@
+streamlit
+pillow
+qrcode
+segno
+pandas
+streamlit-option-menu
+streamlit-lottie
+requests
