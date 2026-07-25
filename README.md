@@ -21,7 +21,7 @@ Create beautiful, customizable QR codes with an elegant user interface, batch ge
 
 🚀 **Try QR Studio Online**
 
-### 🔗 **[Launch QR Studio](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)**
+### 🔗 **[Launch QR Studio](https://qr-studio-k.streamlit.app/qr_generator)**
 
 </div>
 
